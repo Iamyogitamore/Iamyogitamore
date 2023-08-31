@@ -15,7 +15,7 @@
 </p>
  <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"/>
 
-👋 Hi, I’m Yogita More.
+👋 Hi, I’m Yogita Argade.
 
 👀 I’m interested in to learn new technology Based on IT service, data science, etc
 
@@ -54,7 +54,7 @@
 
 ## 📅 **DATABASES**
 
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "MySql")
+![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "Sql")
 
 ## ⭕ **OPERATING SYSTEMS**
 
@@ -71,6 +71,6 @@
 [google]: https://www.google.com
 [youtube]: https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww
 [w3schools]: https://www.w3schools.com/
-[github]: https://github.com/iyogeshmore
+[github]: https://github.com/Iamyogitamore
 [javatpoint]: https://www.javatpoint.com/java-tutorial
 [hackerRank]: https://www.hackerrank.com/iyogesh_more
