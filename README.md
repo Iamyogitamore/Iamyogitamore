@@ -54,7 +54,7 @@
 
 ## 📅 **DATABASES**
 
-![Sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white "Sql")
+![Sql](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=sql&logoColor=white "Sql")
 
 ## ⭕ **OPERATING SYSTEMS**
 
